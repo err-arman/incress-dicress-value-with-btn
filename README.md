@@ -12,3 +12,6 @@ If we click on the " - " button, the value will be dicrese one by one.
 
 
 ![three37](https://user-images.githubusercontent.com/67061197/175614871-45e73cbb-160c-4a8b-9a6a-32647edc0293.jpg)
+
+
+and click the Reset button, value will be zero.
